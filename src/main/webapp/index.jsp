@@ -15,7 +15,7 @@
             --bg: #fafaf8;
             --bg-card: #ffffff;
             --primary: #1a1a2e;
-            --primary-light: #16A34A;
+            --primary-light: #DCFCE7;
             --accent: #e07a5f;
             --accent-light: #f4d0c4;
             --accent-dark: #c05a3e;
