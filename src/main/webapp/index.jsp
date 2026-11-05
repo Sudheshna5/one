@@ -12,7 +12,7 @@
     <style>
         /* ========== ROOT VARIABLES ========== */
         :root {
-            --bg: #ADD8E6;
+            --bg: #0000FF;
             --bg-card: #ffffff;
             --primary: #1a1a2e;
             --primary-light: #DCFCE7;
